@@ -1,29 +1,36 @@
-🛡️ Password Complexity Checker
+<h1>🛡️ <b><span style="color:#1E90FF">Password Complexity Checker</span></b></h1>
 
-A lightweight web tool that evaluates the strength of your password and gives live feedback on how to make it stronger.
+<p>A lightweight web tool that evaluates the strength of your password and gives live feedback on how to make it stronger.</p>
 
-Features
+<hr>
 
-Live password strength evaluation
+<h2>🌟 <b><span style="color:#32CD32">Features</span></b></h2>
+<ul>
+  <li>✅ <b>Live password strength evaluation</b></li>
+  <li>✅ <b>Checks for:</b> length, uppercase, lowercase, numbers, and special characters</li>
+  <li>✅ <b>Shows strength:</b> Weak ❌, Moderate ⚠️, or Very Strong ✅</li>
+  <li>✅ <b>Provides actionable suggestions</b> to improve your password</li>
+</ul>
 
-Checks for length, uppercase, lowercase, numbers, and special characters
+<hr>
 
-Shows strength as Weak ❌, Moderate ⚠️, or Very Strong ✅
+<h2>🚀 <b><span style="color:#FF8C00">How to Use</span></b></h2>
+<ol>
+  <li>Open <code>index.html</code> in a browser.</li>
+  <li>Enter your password in the input field.</li>
+  <li>See live feedback and suggestions for improvement.</li>
+</ol>
 
-Provides actionable suggestions to improve your password
+<hr>
 
-How to Use
+<h2>🛠️ <b><span style="color:#8A2BE2">Technologies</span></b></h2>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
 
-Open index.html in a browser.
+<hr>
 
-Enter your password in the input field.
-
-See live feedback and suggestions for improvement.
-
-Technologies
-
-HTML, CSS, JavaScript
-
-License
-
-Open-source and free for personal or educational use.# password-complexity-checker
+<h2>📄 <b><span style="color:#DC143C">License</span></b></h2>
+<p>Open-source and free for personal or educational use.</p>
